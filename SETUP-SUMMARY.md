@@ -68,7 +68,7 @@ git init
 git add .
 git commit -m "Initial study personas setup"
 # Add your GitHub remote and push
-git remote add origin https://github.com/YOUR_USERNAME/chat-personas.git
+git remote add origin https://github.com/tpausl/chat-personas.git
 git push -u origin main
 ```
 
@@ -77,11 +77,11 @@ git push -u origin main
 Replace `YOUR_USERNAME` and use these URLs:
 
 ```
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/buk.json
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/ds.json
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/elemlds.json
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/itsec.json
-https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/swt.json
+https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/buk.json
+https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/ds.json
+https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/elemlds.json
+https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/itsec.json
+https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/swt.json
 ```
 
 ### 3. Index Remaining Arcanas

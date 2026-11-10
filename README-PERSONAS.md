@@ -31,7 +31,7 @@ Each persona includes:
 
 1. **Via URL Import** (recommended):
    ```
-   https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/buk.json
+   https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/buk.json
    ```
 
 2. **Via Data URI** (for local files):
@@ -50,11 +50,11 @@ Replace `YOUR_USERNAME` with your GitHub username after pushing:
 
 | Course | Persona Link |
 |--------|--------------|
-| **Computability & Complexity** | [Load buk.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/buk.json) |
-| **Diskrete Strukturen** | [Load ds.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/ds.json) |
-| **ML & Data Science** | [Load elemlds.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/elemlds.json) |
-| **IT-Security** | [Load itsec.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/itsec.json) |
-| **Software Engineering** | [Load swt.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/YOUR_USERNAME/chat-personas/main/swt.json) |
+| **Computability & Complexity** | [Load buk.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/buk.json) |
+| **Diskrete Strukturen** | [Load ds.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/ds.json) |
+| **ML & Data Science** | [Load elemlds.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/elemlds.json) |
+| **IT-Security** | [Load itsec.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/itsec.json) |
+| **Software Engineering** | [Load swt.json](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/tpausl/chat-personas/main/swt.json) |
 
 ---
 
@@ -319,7 +319,7 @@ https://chat-ai.academiccloud.de/chat/?import=data:application/json,{...}
    git init
    git add .
    git commit -m "Initial study personas setup"
-   git remote add origin https://github.com/YOUR_USERNAME/chat-personas.git
+   git remote add origin https://github.com/tpausl/chat-personas.git
    git push -u origin main
    ```
 

@@ -157,7 +157,7 @@ Step 1: Push to GitHub
   $ git init
   $ git add .
   $ git commit -m "Study personas setup"
-  $ git remote add origin https://github.com/YOUR_USERNAME/chat-personas.git
+  $ git remote add origin https://github.com/tpausl/chat-personas.git
   $ git push -u origin main
 
 Step 2: Index Arcanas
