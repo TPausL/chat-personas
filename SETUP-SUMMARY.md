@@ -195,15 +195,17 @@ Persona: [Uses image generation tool, creates UML diagram]
 
 ### Arcana IDs
 
-These are embedded in each persona:
+These are embedded in each persona (format: `username/arcana-id`):
 
 ```
-buk:     buk-46d227bd-60d3-431a-8c10-7a2e1991e953
-ds:      ds-f63a8c86-a984-45e4-b1be-5bdea0177df6
-elemlds: elemlds-6c70025a-945a-4a8a-8bfa-5786da46c32d
-itsec:   itsec-264b0168-3af5-4407-a217-6a6aaa856548
-swt:     swt-2bb96f17-c066-4633-ba6e-7583a127c56d
+buk:     timo.peters03/buk-46d227bd-60d3-431a-8c10-7a2e1991e953
+ds:      timo.peters03/ds-f63a8c86-a984-45e4-b1be-5bdea0177df6
+elemlds: timo.peters03/elemlds-6c70025a-945a-4a8a-8bfa-5786da46c32d
+itsec:   timo.peters03/itsec-264b0168-3af5-4407-a217-6a6aaa856548
+swt:     timo.peters03/swt-2bb96f17-c066-4633-ba6e-7583a127c56d
 ```
+
+**Note:** Replace `timo.peters03` with your actual Chat AI username if different.
 
 ## 📊 Comparison: Before vs After
 
